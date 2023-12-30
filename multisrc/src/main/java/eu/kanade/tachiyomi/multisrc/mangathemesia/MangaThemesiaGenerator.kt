@@ -129,6 +129,7 @@ class MangaThemesiaGenerator : ThemeSourceGenerator {
         SingleLang("Rawkuma", "https://rawkuma.com/", "ja"),
         SingleLang("ReadGojo", "https://readgojo.com", "en"),
         SingleLang("Readkomik", "https://readkomik.com", "en", className = "ReadKomik", overrideVersionCode = 1),
+        SingleLang("Reaper-Scans (unoriginal)", "https://reaper-scans.com", "en"),
         SingleLang("Ryukonesia", "https://ryukonesia.net", "id"),
         SingleLang("Sekaikomik", "https://sekaikomik.bio", "id", isNsfw = true, overrideVersionCode = 11),
         SingleLang("Sekte Doujin", "https://sektedoujin.cc", "id", isNsfw = true, overrideVersionCode = 5),
